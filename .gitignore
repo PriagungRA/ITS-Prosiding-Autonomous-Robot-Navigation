@@ -1,0 +1,16 @@
+# LaTeX build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# PDF hasil compile
+main.pdf
+
+# VSCode
+.vscode/
+
+# Temporary
+*.tmp
